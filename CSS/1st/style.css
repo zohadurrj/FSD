@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: aqua;
+    text-shadow: 1px 1px 2px #f04;
+    color: blue;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+}
